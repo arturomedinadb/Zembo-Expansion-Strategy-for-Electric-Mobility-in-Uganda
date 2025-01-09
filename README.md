@@ -1,12 +1,10 @@
-# Zembo Expansion Strategy for Electric Mobility in Uganda
+# Expansion Strategy for Electric Mobility in Uganda
 
 ![image](https://github.com/user-attachments/assets/cca01b36-0b69-43d7-8bc6-cb7d9b4993fa)
 ### Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZDk0ZDQ4ZDQtYjdmMi00ZDNjLWFkODktNjA4MTJlNDI2MWE4IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9
 
 ## Project Overview
-This project showcases the strategy for expanding Zembo’s electric mobility solutions across Uganda, aiming to enhance sustainability, mobility,
-and the reduction of CO2 emissions. Our team, **Boda-boda**, achieved **3rd place** in the **2024 Duke Business Case Competition** for 
-**Energy in Emerging Markets**, competing among 70 international teams.
+This project showcases the strategy for expanding Zembo, a company providing solar-powered electric motorcycles and battery-swapping stations in Uganda, aiming to enhance sustainability, mobility, and the reduction of CO2 emissions. Our team, Boda-boda, achieved 3rd place in the 2024 Duke Business Case Competition for Energy in Emerging Markets, competing among 70 international teams.
 
 The project utilizes **Gurobi optimization models** to strategize the distribution of Zembo’s **solar-powered charging stations** and 
 **franchise cabinets** to reach new cities in Uganda. The focus is on **B2B expansion**, including partnerships with **medicine delivery 
